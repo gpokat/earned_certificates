@@ -1,4 +1,4 @@
-
+### [Black-box and White-box Testing (QA)](https://github.com/gpokat/earned_certificates/blob/master/UniversityOfMinnesota_Black-box%20and%20White-box%20Testing.pdf)
 ### [Introduction to Software Testing (QA)](https://github.com/gpokat/earned_certificates/blob/master/UniversityOfMinnesota_Introduction%20to%20Software%20Testing.pdf)
 ### [S.O.L.I.D. Programming Principles](https://github.com/gpokat/earned_certificates/blob/master/CertificateOfCompletion_Learning%20S.O.L.I.D.%20Programming%20Principles.pdf)
 ### [Becom Agile Software Developer](https://github.com/gpokat/earned_certificates/blob/master/CertificateOfCompletion_Become%20an%20Agile%20Software%20Developer.pdf)
