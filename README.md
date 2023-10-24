@@ -9,3 +9,4 @@
 ### [Remote Teams](https://github.com/gpokat/earned_certificates/blob/master/CertificateOfCompletion_Agile%20Software%20Development%20Remote%20Teams.pdf)
 ### [Scrum for Developers](https://github.com/gpokat/earned_certificates/blob/master/CertificateOfCompletion_Agile%20Software%20Development%20Scrum%20for%20Developers.pdf)
 ### [Planning and Releasing with JIRA](https://github.com/gpokat/earned_certificates/blob/master/CertificateOfCompletion_Planning%20and%20Releasing%20Software%20with%20JIRA.pdf)
+
